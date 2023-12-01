@@ -1,6 +1,6 @@
 ## Olá, eu sou o Eduardo.
 
-- 🌱 Estudando React e TypeScript e NodeJS
+- 🌱 Experiência com ReactJS, Javascript, TypeScript, NodeJS, SQL e MongoDB
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
 - 📫 Contate-me no email: edu0alves00@gmail.com
 - 😄 Pronouns: ele/dele
