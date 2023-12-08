@@ -33,7 +33,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
+    src="https://profile-counter.glitch.me/eduardojanegitz/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
