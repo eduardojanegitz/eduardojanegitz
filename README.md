@@ -1,7 +1,7 @@
 ## Olá, eu sou o Eduardo.
 
 - 🌱 Experiência com ReactJS, Javascript, TypeScript, NodeJS, SQL e MongoDB
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
+- 💬 Pergunte-me sobre HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, MongoDB
 - 📫 Contate-me no email: edu0alves00@gmail.com
 - 😄 Pronouns: ele/dele
 
