@@ -1,18 +1,19 @@
-# Sobre Mim
 ## Olá! 👋 Meu nome é Eduardo, sou um desenvolvedor entusiasta apaixonado por tecnologia e inovação. Aqui está um pouco sobre minha experiência e como você pode entrar em contato comigo:
 
 ### 🌱 Experiência
-#### - Linguagens e Tecnologias: ReactJS, JavaScript, TypeScript, NodeJS, SQL, MongoDB.
-#### - Conhecimentos Específicos: HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, MongoDB.
+- Linguagens e Tecnologias: ReactJS, JavaScript, TypeScript, NodeJS, SQL, MongoDB.
+- Conhecimentos Específicos: HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, MongoDB.
 
 ### 💬 Pergunte-me sobre
-#### - Desenvolvimento Web: HTML, CSS, JavaScript.
-#### - Frameworks: ReactJS, NodeJS.
-#### - Banco de Dados: MongoDB.
-#### - Ferramentas: Bootstrap.
+- Desenvolvimento Web: HTML, CSS, JavaScript.
+- Frameworks: ReactJS, NodeJS.
+- Banco de Dados: MongoDB.
+- Ferramentas: Bootstrap.
 
 ### 📫 Contato
-#### - Email: edu0alves00@gmail.com
+- Email: edu0alves00@gmail.com
+
+- Acesse a página do meu portfólio: https://eduardo-alves-portfolio.vercel.app/
 
 
 <div align="center">
