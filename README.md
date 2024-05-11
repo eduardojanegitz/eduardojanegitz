@@ -1,14 +1,24 @@
-## Olá, eu sou o Eduardo.
+# Sobre Mim
+## Olá! 👋 Meu nome é Eduardo, sou um desenvolvedor entusiasta apaixonado por tecnologia e inovação. Aqui está um pouco sobre minha experiência e como você pode entrar em contato comigo:
 
-- 🌱 Experiência com ReactJS, Javascript, TypeScript, NodeJS, SQL e MongoDB
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, MongoDB
-- 📫 Contate-me no email: edu0alves00@gmail.com
-- 😄 Pronouns: ele/dele
+### 🌱 Experiência
+#### - Linguagens e Tecnologias: ReactJS, JavaScript, TypeScript, NodeJS, SQL, MongoDB.
+#### - Conhecimentos Específicos: HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, MongoDB.
+
+### 💬 Pergunte-me sobre
+#### - Desenvolvimento Web: HTML, CSS, JavaScript.
+#### - Frameworks: ReactJS, NodeJS.
+#### - Banco de Dados: MongoDB.
+#### - Ferramentas: Bootstrap.
+
+### 📫 Contato
+#### - Email: edu0alves00@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/eduardojanegitz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardojanegitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojanegitz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojanegitz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
