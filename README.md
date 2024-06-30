@@ -8,7 +8,7 @@
 - Desenvolvimento Web: HTML, CSS, JavaScript.
 - Frameworks: ReactJS, NodeJS.
 - Banco de Dados: MongoDB.
-- Ferramentas: Bootstrap.
+- Ferramentas: Bootstrap, SCSS. 
 
 ### 📫 Contato
 - Email: edu0alves00@gmail.com
