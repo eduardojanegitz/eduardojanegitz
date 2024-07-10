@@ -1,4 +1,4 @@
-## Olá! 👋 Meu nome é Eduardo, sou um desenvolvedor entusiasta apaixonado por tecnologia e inovação. Aqui está um pouco sobre minha experiência e como você pode entrar em contato comigo:
+## Olá! 👋 Meu nome é Eduardo, sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui está um pouco sobre minha experiência e como você pode entrar em contato comigo:
 
 ### 🌱 Experiência
 - Linguagens e Tecnologias: ReactJS, JavaScript, TypeScript, NodeJS, SQL, MongoDB.
