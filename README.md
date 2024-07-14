@@ -7,7 +7,7 @@
 ### 💬 Pergunte-me sobre
 - Desenvolvimento Web: HTML, CSS, JavaScript, PHP.
 - Frameworks: ReactJS, NodeJS, Laravel.
-- Banco de Dados: MongoDB SQL.
+- Banco de Dados: MongoDB e SQL.
 - Ferramentas: Bootstrap, SCSS, TailwindCSS. 
 
 ### 📫 Contato
