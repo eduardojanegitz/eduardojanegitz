@@ -11,7 +11,7 @@
 - Ferramentas: Bootstrap, SCSS, TailwindCSS. 
 
 ### 📫 Contato
-- Email: edu0alves00@gmail.com
+- E-mail: edu0alves00@gmail.com
 
 - Acesse a página do meu portfólio: https://eduardo-alves-portfolio.vercel.app/
 
