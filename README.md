@@ -5,7 +5,7 @@
 - Conhecimentos Específicos: HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, MongoDB.
 
 ### 💬 Pergunte-me sobre
-- Desenvolvimento Web: HTML, CSS, JavaScript, PHP.
+- Desenvolvimento Web: HTML5, CSS3, JavaScript, PHP.
 - Frameworks: ReactJS, NodeJS, Laravel.
 - Banco de Dados: MongoDB e SQL.
 - Ferramentas: Bootstrap, SCSS, TailwindCSS. 
