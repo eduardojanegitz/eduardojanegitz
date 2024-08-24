@@ -14,7 +14,7 @@ Aqui está um pouco sobre minha experiência e como você pode entrar em contato
 ### 📫 Contato
 - E-mail: edu0alves00@gmail.com
 
-- Acesse a página do meu portfólio: https://eduardo-alves-portfolio.vercel.app/
+- Acesse a página do meu portfólio: https://eduardo-alves-portfolio.vercel.app
 
 
 <div align="center">
