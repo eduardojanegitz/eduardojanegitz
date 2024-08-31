@@ -1,4 +1,4 @@
-## Olá! 👋 Meu nome é Eduardo. 
+## Olá! 👋 Meu nome é Eduardo 
 Aqui está um pouco sobre minha experiência e como você pode entrar em contato comigo:
 
 ### 🌱 Experiência
