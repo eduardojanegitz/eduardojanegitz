@@ -3,7 +3,7 @@ Aqui está um pouco sobre minha experiência e como você pode entrar em contato
 
 ### 🌱 Experiência
 - Linguagens e Tecnologias: ReactJS, JavaScript, TypeScript, NodeJS, SQL, NoSQL, Laravel, PHP. 
-- Conhecimentos Específicos: HTML, CSS, JavaScript, ReactJS, NodeJS, NextJS, MongoDB.
+- Conhecimentos Específicos: HTML, CSS, JavaScript, ReactJS, NodeJS, NextJS, MongoDB
 
 ### 💬 Pergunte-me sobre
 - Desenvolvimento Web: HTML5, CSS3, JavaScript, PHP.
