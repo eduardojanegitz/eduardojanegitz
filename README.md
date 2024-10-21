@@ -8,7 +8,7 @@ Aqui está um pouco sobre minha experiência e como você pode entrar em contato
 ### 💬 Pergunte-me sobre
 - Desenvolvimento Web: HTML5, CSS3, JavaScript, PHP.
 - Frameworks: ReactJS, NodeJS, Laravel.
-- Banco de Dados: MongoDB, Oracle, MySQL, Postgree, Snowflake.
+- Banco de Dados: MongoDB, Oracle, MySQL, Postgree, Snowflake
 - Ferramentas: Bootstrap, SCSS, TailwindCSS. 
 
 ### 📫 Contato
