@@ -1,89 +1,103 @@
-# 👋 Olá! Eu sou o **Eduardo Alves**
-
-> Desenvolvedor Web focado em **React, Node e TypeScript**.  
-> Transformo ideias em interfaces rápidas, acessíveis e bonitas — com atenção ao detalhe do layout e à experiência do usuário.
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portf%C3%B3lio-acesse%20aqui-0ea5e9)](https://eduardojanegitz.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Alves-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-alves-091aa1219/)
-[![Email](https://img.shields.io/badge/Email-edu0alves00%40gmail.com-ef4444?logo=gmail&logoColor=white)](mailto:edu0alves00@gmail.com)
-
----
-
-## ✨ Sobre mim
-- 👨‍💻 Crio **aplicações web** com **React/Next.js** no front e **Node.js/TypeScript** no back.
-- 🧩 Gosto de código **claro e escalável** (componentização, boas práticas e performance).
-- 🧭 Curto aprender continuamente — sempre explorando novas libs e patterns.
-- 🎯 Objetivo: entregar **produtos úteis**, com **UX** e **UI** caprichadas.
-
----
-
-## 📚 Livros que me inspiram
-> Leituras que moldam minha forma de pensar e trabalhar: **qualidade de código**, **arquitetura pragmática** e **design centrado no usuário**.  
-
-- Qualidade de código & boas práticas  
-- Arquitetura e escalabilidade  
-- UX, acessibilidade e produto
-
----
-
-## 🧰 Toolbox — tecnologias que uso para criar
 <div align="center">
 
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;         
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> 
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+# Olá, eu sou o Eduardo Alves 👋
+
+### Desenvolvedor Web Full Stack focado em **React, Node.js e TypeScript**
+
+Transformo ideias em produtos digitais rápidos, acessíveis e bem construídos — do banco de dados à interface.
+
+<a href="https://eduardojanegitz.com.br"><img src="https://img.shields.io/badge/🌐%20Portf%C3%B3lio-acesse%20aqui-0ea5e9?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/eduardo-alves-091aa1219/"><img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Alves-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:edu0alves00@gmail.com"><img src="https://img.shields.io/badge/Email-edu0alves00%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🎮 Fora do código
-Gosto de equilibrar foco e criatividade com alguns hobbies:
+## 🚀 Sobre mim
 
-`🎵 Música` • `📷 Fotografia` • `🏋️‍♂️ Academia` • `🎮 Jogos` • `🏎️ Fórmula 1`
-
----
-
-## 💬 Pergunte-me sobre
-- **Front-end:** HTML5, CSS3, JavaScript, React, Next.js, TailwindCSS, SCSS  
-- **Back-end:** Node.js, TypeScript, Laravel, APIs REST  
-- **Dados:** MongoDB, Oracle, MySQL, PostgreSQL
-- **Boas práticas:** Componentização, acessibilidade, performance, organização de pastas
+- 💻 Construo **aplicações web completas**: React/Next.js no front-end, Node.js/TypeScript no back-end.
+- 🏗️ Trabalho profissionalmente com **APIs REST em produção**, integrando PostgreSQL, Oracle, filas (Redis/BullMQ) e autenticação segura (JWT).
+- 🧩 Gosto de código **limpo, componentizado e escalável** — performance e boas práticas não são opcionais.
+- 📚 Estudo continuamente arquitetura de software, UX e acessibilidade para entregar produtos que funcionam bem e são agradáveis de usar.
+- 🎯 Hoje, meu foco é evoluir como desenvolvedor full stack, unindo solidez de back-end a interfaces caprichadas.
 
 ---
 
-## 📫 Contato
-- **E-mail:** [edu0alves00@gmail.com](mailto:edu0alves00@gmail.com)  
-- **Portfólio:** [eduardojanegitz.com.br](https://eduardojanegitz.com.br)  
-- **LinkedIn:** [in/eduardo-alves-091aa1219](https://www.linkedin.com/in/eduardo-alves-091aa1219/)
+## 🛠️ Projeto em destaque
+
+### ⚽ FUTLENDA — Simulador de Carreira de Jogador de Futebol
+Jogo web original onde o usuário cria um jogador do zero e simula toda a carreira até a aposentadoria.
+
+- **Arquitetura:** monorepo (pnpm) com apps separados de frontend e backend, e pacotes compartilhados de tipos e motor de simulação
+- **Frontend:** React + TypeScript + Vite + Tailwind + shadcn/ui + Zustand + TanStack Query
+- **Backend:** NestJS + Prisma + PostgreSQL + Redis + BullMQ + JWT
+- **Infra:** Docker, Docker Compose, Nginx, GitHub Actions (CI/CD)
+- Projeto 100% autoral — identidade, motor de simulação e regras de negócio desenvolvidos do zero
+
+> Um projeto pensado para demonstrar arquitetura, modelagem de dados e engenharia de produto de ponta a ponta — não só código.
+
+---
+
+## 🧰 Stack técnica
+
+**Front-end**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+
+**Back-end**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+
+**Dados & Infra**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+**Ferramentas**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 
 ---
 
 ## 📊 Métricas do GitHub
+
 <div align="center">
-  <a href="https://github.com/eduardojanegitz">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardojanegitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojanegitz&layout=compact&langs_count=8&theme=dracula" />
-  </a>
-  <br/><br/>
-  <img height="170" src="https://streak-stats.demolab.com?user=eduardojanegitz&theme=dracula&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=eduardojanegitz&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+## 🎮 Fora do código
+
+`🎵 Música` • `📷 Fotografia` • `🏋️ Academia` • `🎮 Jogos` • `🏎️ Fórmula 1`
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a novas oportunidades e conexões. Se você é recrutador ou quer trocar uma ideia sobre tecnologia, me chama:
+
+- 📧 [edu0alves00@gmail.com](mailto:edu0alves00@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-alves-091aa1219/)
+- 🌐 [Portfólio](https://eduardojanegitz.com.br)
+
+<div align="center">
+  <sub>Obrigado por passar por aqui! ⭐ Se curtir o que vê, deixa uma estrela em algum repositório.</sub>
 </div>
