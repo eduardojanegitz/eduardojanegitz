@@ -24,21 +24,6 @@ Transformo ideias em produtos digitais rápidos, acessíveis e bem construídos 
 
 ---
 
-## 🛠️ Projeto em destaque
-
-### ⚽ FUTLENDA — Simulador de Carreira de Jogador de Futebol
-Jogo web original onde o usuário cria um jogador do zero e simula toda a carreira até a aposentadoria.
-
-- **Arquitetura:** monorepo (pnpm) com apps separados de frontend e backend, e pacotes compartilhados de tipos e motor de simulação
-- **Frontend:** React + TypeScript + Vite + Tailwind + shadcn/ui + Zustand + TanStack Query
-- **Backend:** NestJS + Prisma + PostgreSQL + Redis + BullMQ + JWT
-- **Infra:** Docker, Docker Compose, Nginx, GitHub Actions (CI/CD)
-- Projeto 100% autoral — identidade, motor de simulação e regras de negócio desenvolvidos do zero
-
-> Um projeto pensado para demonstrar arquitetura, modelagem de dados e engenharia de produto de ponta a ponta — não só código.
-
----
-
 ## 🧰 Stack técnica
 
 **Front-end**
